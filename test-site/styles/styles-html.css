@@ -1,0 +1,52 @@
+h1{
+	color: #7a2923;
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	text-shadow: 9px 9px 9px #941e3f;
+	font-size: 50px;
+	text-decoration: underline;
+}
+h2{
+	color: #006635;
+	width: 1000px;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 50px;
+}
+a:hover{
+	color: #ed1575;
+}
+#id1{
+	color: #bd286a;
+	font-size: 30px;
+}
+#id2, li{
+	color: #15824d;
+	font-size: 30px;
+}
+img{
+	max-width: 40%;
+	height: auto;
+	border-radius: 60%;
+	border: 1px solid #ddd;
+	padding: 5px;
+}
+img:hover{
+	box-shadow: 0 0 10px 10px rgba(0, 140, 186, 0.5);
+}
+
+#id3, #id4, #id5{
+	color: #8168c4;
+	font-family:'Lobster Two', cursive;
+	font-size: 30px;
+}
+
+body{
+	background-color: #d1cce3;
+}
+div{
+	color: black;
+	font-size: 20px;
+}
+#my-links{
+	font-size: 30px;
+}
